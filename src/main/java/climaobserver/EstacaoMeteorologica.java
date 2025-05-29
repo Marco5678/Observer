@@ -1,4 +1,4 @@
-package ClimaObserver;
+package climaobserver;
 
 import java.util.Observable;
 
